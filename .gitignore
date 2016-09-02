@@ -9,7 +9,6 @@ media
 bin
 include
 pip-selfcheck.json
-manage.py
 /static
 
 
