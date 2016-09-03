@@ -9,7 +9,7 @@ media
 bin
 include
 pip-selfcheck.json
-/static
+
 
 
 # Byte-compiled / optimized / DLL files
